@@ -1,0 +1,18 @@
+.custom-navbar {
+    background-color: aliceblue;
+}
+
+.navbar-brand, .custom-navbar, .nav-link {
+    color:blueviolet !important;
+}
+
+.custom-button {
+    background-color: cadetblue;
+    color: chocolate;
+    border: none;
+}
+
+.custom-button:hover {
+    background-color: chocolate;
+    color: cadetblue;
+}
